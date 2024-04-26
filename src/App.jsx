@@ -51,7 +51,7 @@ function App() {
           }
         />
         <Button value={<LuDelete />} handleClick={remLstCh} />
-        <Button value={'÷'} handleClick={asigOp} />
+        <Button value={'/'} handleClick={asigOp} />
 
         <Button value={7} handleClick={asigVal} />
         <Button value={8} handleClick={asigVal} />
